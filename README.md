@@ -76,6 +76,13 @@ DSA/
 ## 🚀 Learning Journey
 
 This repository represents my journey of learning **DSA and problem-solving** as a B.Tech student.
+👨‍💻 About Me
+
+I'm a B.Tech student learning programming and exploring different areas of computer science.
+
+GitHub: Debasis Paul 🚀
+
+⭐ Feel free to explore the repository!
 
 More programs and algorithms will be added with time.
 
