@@ -19,7 +19,6 @@ This folder contains my practice programs and implementations of **Data Structur
 * Priority Queue
 * Trees
 * AVL Tree
-* Hashing
 
 ### 🔹 Algorithms
 
