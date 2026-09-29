@@ -9,7 +9,6 @@ This folder contains my practice programs and implementations of **Data Structur
 ### 🔹 Data Structures
 
 * Arrays
-* Linked List
 * Singly Linked List
 * Doubly Linked List
 * Circular Linked List
